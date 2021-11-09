@@ -23764,3 +23764,16 @@
   ]
   
 }
+
+,
+  "chainId": 101,
+  "address": "GSDuRbsVt5HFYFLcazKVD5rRWdfk3RyikGHVZW6GqdpW",
+  "symbol": "poiop",
+  "name": "oiu",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GSDuRbsVt5HFYFLcazKVD5rRWdfk3RyikGHVZW6GqdpW/logo.png",
+  "tags": [
+  ],
+  "extensions": {
+    "website": "",
+    "twitter": ""
